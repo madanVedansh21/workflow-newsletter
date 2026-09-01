@@ -1,6 +1,6 @@
 ---
 name: workflow-newsletter
-description: description: "Use this skill to build a founder-focused AI workflow newsletter from scratch. Trigger whenever a user gives a topic, pain point, or use case and wants a step-by-step actionable workflow article. Trigger phrases: 'write the newsletter', 'build the workflow for this topic', 'turn this into a newsletter', 'help me roll out the next newsletter', 'write this week's newsletter'. This skill covers the full process: researching the topic landscape, gathering resources, ranking tools by founder-friendliness, human-in-the-loop architecture decisions, and writing the final article — TLDR, numbered steps, full prompts, code blocks, limitations, soft CTA."
+description: "Use this skill to build a founder-focused AI workflow newsletter from scratch. Trigger whenever a user gives a topic, pain point, or use case and wants a step-by-step actionable workflow article. Trigger phrases: 'write the newsletter', 'build the workflow for this topic', 'turn this into a newsletter', 'help me roll out the next newsletter', 'write this week's newsletter'. This skill covers the full process: researching the topic landscape, gathering resources, ranking tools by founder-friendliness, human-in-the-loop architecture decisions, and writing the final article — TLDR, numbered steps, full prompts, code blocks, limitations, soft CTA."
 ---
 
 # Workflow Newsletter Skill
