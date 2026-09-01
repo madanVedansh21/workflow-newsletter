@@ -96,8 +96,3 @@ PRs welcome. Good contributions:
 - Improvements to the writing rules or phase structure
 - Example newsletter outputs in an `examples/` folder
 
----
-
-## License
-
-MIT
