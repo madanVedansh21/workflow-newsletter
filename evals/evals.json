@@ -3,20 +3,20 @@
   "evals": [
     {
       "id": 1,
-      "prompt": "I need to write this week's newsletter. The topic is: Live proposal builder — connects to a meeting tool like Granola, listens to a sales call, pulls from past proposals and generates a personalized draft in real time. Our readers are founders who do B2B sales.",
-      "expected_output": "Full workflow newsletter with TLDR, 4-8 steps, full prompts written out, limitations section, soft CTA. Should research Granola's actual API capabilities before deciding architecture. Should not assume any specific architecture pattern upfront.",
+      "prompt": "I need to write this week's newsletter. Topic: founders are wasting hours every week manually updating their CRM after sales calls — typing in notes, updating deal stages, logging next steps. I want a workflow that does all of this automatically right after a call ends.",
+      "expected_output": "Full workflow newsletter with TLDR, 4-8 steps, full prompts written out, limitations section, soft CTA. Should research tools that can capture call data and push to CRM. Should not assume any specific architecture pattern upfront.",
       "files": []
     },
     {
       "id": 2,
-      "prompt": "Help me roll out the next newsletter. Topic: founders are spending hours every week manually writing LinkedIn posts from their meeting notes. I want a workflow that takes Notion meeting notes and turns them into 3 ready-to-post LinkedIn drafts automatically.",
-      "expected_output": "Full workflow newsletter. Should research the topic landscape first, then tools (Notion API, Zapier, Make, Claude API, etc.), present options to user, then write article in house style.",
+      "prompt": "Help me write a workflow article. Pain point: founders have no idea when a competitor changes their pricing page or launches a new feature — they find out weeks later from a customer. Build a workflow that monitors competitor pages and sends a Slack alert with an AI summary whenever something changes.",
+      "expected_output": "Full workflow newsletter. Should research the topic landscape first, then tools for web monitoring and change detection, present options to user, then write article in house style.",
       "files": []
     },
     {
       "id": 3,
-      "prompt": "Write a workflow article for founders on how to build a client onboarding system using AI — right now they're sending the same intro emails and docs manually every time a new client signs.",
-      "expected_output": "Should first clarify the pain/trigger/output, then research tools, then produce newsletter. Should be medium complexity — not just 'use an email template', but also not requiring custom backend infra.",
+      "prompt": "Write a workflow article for founders on how to turn raw customer support tickets into a weekly insight report — right now support data just sits in Intercom or Freshdesk and nobody reads it. I want AI to surface the top recurring complaints every week automatically.",
+      "expected_output": "Should first clarify the pain/trigger/output, then research tools, then produce newsletter. Should be medium complexity — not just summarise tickets with a prompt, but a repeatable automated system.",
       "files": []
     }
   ]
